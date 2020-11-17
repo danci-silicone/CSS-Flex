@@ -1,3 +1,5 @@
+![alt text](https://github.com/danci-silicone/CSS-Flex/blob/master/src/assets/flex.PNG)
+
 Main: \
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
