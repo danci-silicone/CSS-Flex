@@ -26,7 +26,7 @@ function App() {
 
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route path="/about" component={DisplayOrder} />
+          <Route path="/aboutaaaaa" component={DisplayOrder} />
           <Route
             path="/flexdirectionflexgrow"
             component={FlexDirectionFlexGrow}
